@@ -1,0 +1,38 @@
+.my{
+    text-align: right; 
+    font-size: 25px;
+    font-family:Verdana ;
+    font-weight: bold;
+}
+.navbar {
+    display: inline-block;
+    text-align: right;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar li a {
+    color:rgb(248, 245, 245);
+    text-decoration: none;
+    padding: 34px 23px;
+    font-weight: bold;
+
+}
+
+
+.mid {
+    display: block;
+    width: 36%;
+    margin: 29px auto;
+}
+.left {
+    display: inline-block;
+    position: absolute;
+    font-size: 50px;
+    color: rgb(250, 246, 246);
+    text-align:left;
+}
